@@ -3,8 +3,8 @@
 Projet personnel fait en C avec la librairie SDL. Ce programme est une série de mini-jeux, et me permet de me faire la main sur les techniques qui aboutissent à un moteur 2D optimisé et multi-plateforme.
 Il contient pour le moment un Jeu de la Vie (Conway's game of life), et une petite simulation de vaisseau spacial.
 
-<iframe src="vids/gameoflife.mp4" frameborder="0"> </iframe>
+<iframe width="720" height="480" src="vids/gameoflife.mp4" frameborder="0"> </iframe>
 
-<iframe src="vids/space.mp4" frameborder="0"> </iframe>
+<iframe width="720" height="480" src="vids/space.mp4" frameborder="0"> </iframe>
 
 [code source](https://github.com/paul-gangneux/little-c-program)
