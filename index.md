@@ -1,5 +1,3 @@
-# Portfolio de Paul Gangneux
-
 ## Little C program
 
 Projet personnel fait en C avec la librairie SDL. Ce programme est une série de mini-jeux, et me permet de me faire la main sur les techniques qui aboutissent à un moteur 2D optimisé et multi-plateforme.
