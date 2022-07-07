@@ -4,9 +4,9 @@ Développeur polyvalent et étudiant à l'université Paris Cité, je m'intéres
 
 contact: paul.v.gangneux@gmail.com 
 
-# projets
-
 * * *
+
+# projets
 
 ## Little C program
 
