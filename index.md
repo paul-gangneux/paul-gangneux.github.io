@@ -5,9 +5,15 @@ Il contient pour le moment un Jeu de la Vie (Conway's game of life), et une peti
 
 [code source](https://github.com/paul-gangneux/little-c-program)
 
-<iframe width="720" height="480" src="vids/gameoflife.mp4" frameborder="0"> </iframe>
+<video width="720" height="480" controls loop autoplay muted>
+  <source src="vids/gameoflife.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-<iframe width="720" height="480" src="vids/space.mp4" frameborder="0"> </iframe>
+<video width="720" height="480" controls loop autoplay muted>
+  <source src="vids/space.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
 
 
 ## Ghostlab
