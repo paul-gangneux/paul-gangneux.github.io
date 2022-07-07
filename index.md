@@ -17,6 +17,6 @@ Le projet a été fait en groupe. Je me suis personnellement occupé de coder to
 
 [code source](https://github.com/paul-gangneux/ghostlab)
 
-<img width="900" height="480" src="pics/ghostlab2.png" frameborder="0"> </iframe>
+<img width="900" height="480" src="pics/ghostlab2.png" frameborder="0">
 
-<img width="720" height="432" src="pics/ghostlab1.png" frameborder="0"> </iframe>
+<img width="720" height="432" src="pics/ghostlab1.png" frameborder="0">
