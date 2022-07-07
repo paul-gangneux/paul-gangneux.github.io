@@ -33,7 +33,7 @@ Le projet a été fait en groupe. Je me suis personnellement occupé de coder to
 
 Projet scolaire de 3eme année de licence, FractalMaker est un générateur de fractales fait en Java, utilisant les ensembles de Julia et de Mandelbrot. Le but de ce projet est d'utiliser au mieux le paradigme de programmation orientée objet, en utilisant beaucoup d'expressions lambdas pour passer des fonctions en paramètres d'autres fonctions. La génération de fractales est hautement paramétrable, on peut modifier le taux d'anti-crénelage, entrer à la main la fonction complexe utilisée pour le calcul de la fractale, choisir la fonction utilisée pour l'affichage (couleur, luminosité), etc.
 
-Le projet a été fait en groupe. Je me suis personnellement occupé tout ce qui permet de générer la fractale à partir d'une fonction complexe, de l'interface graphique, des fonctions complexes, et de la structure globale du projet.
+Le projet a été fait en groupe. Je me suis personnellement occupé de tout ce qui permet de générer la fractale à partir d'une fonction complexe, de l'interface graphique, des fonctions complexes, et de la structure globale du projet.
 
 [code source](https://github.com/paul-gangneux/fractal-generator-java)
 
