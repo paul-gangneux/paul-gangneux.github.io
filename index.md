@@ -1,3 +1,11 @@
+# profil
+
+Développeur polyvalent et étudiant à l'université Paris Cité, je m'intéresse particulièrement à la programmation bas niveau et au développement logiciel. J'ai pu améliorer mes connaissances au cours de plusieurs projets scolaires et personnels, et espère pouvoir apprendre encore plus à l'occasion de mon Master en alternance en travaillant sur des projets professionnels conséquents.
+
+contact: paul.v.gangneux@gmail.com 
+
+# projets
+
 ## Little C program
 
 Projet personnel fait en C avec la librairie SDL. Ce programme est une série de mini-jeux, et me permet de me faire la main sur les techniques qui aboutissent à un moteur 2D optimisé et multi-plateforme.
