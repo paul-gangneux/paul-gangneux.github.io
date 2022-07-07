@@ -5,9 +5,9 @@ Il contient pour le moment un Jeu de la Vie (Conway's game of life), et une peti
 
 [code source](https://github.com/paul-gangneux/little-c-program)
 
-<iframe width="720" src="vids/gameoflife.mp4" frameborder="0"> </iframe>
+<iframe width="720" height="480" src="vids/gameoflife.mp4" frameborder="0"> </iframe>
 
-<iframe width="720" src="vids/space.mp4" frameborder="0"> </iframe>
+<iframe width="720" height="480" src="vids/space.mp4" frameborder="0"> </iframe>
 
 
 ## Ghostlab
@@ -17,6 +17,6 @@ Le projet a été fait en groupe. Je me suis personnellement occupé de coder to
 
 [code source](https://github.com/paul-gangneux/ghostlab)
 
-<iframe width="720" src="pics/ghostlab2" frameborder="0"> </iframe>
+<iframe width="900" height="480" src="pics/ghostlab2.png" frameborder="0"> </iframe>
 
-<iframe width="720" src="pics/ghostlab2" frameborder="0"> </iframe>
+<iframe width="720" height="432" src="pics/ghostlab1.png" frameborder="0"> </iframe>
